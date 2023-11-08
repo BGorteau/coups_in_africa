@@ -1,0 +1,222 @@
+,id,description
+0,AG.CON.FERT.ZS,Fertilizer consumption (kilograms per hectare of arable land)
+1,AG.LND.AGRI.K2,Agricultural land (sq. km)
+2,AG.LND.AGRI.ZS,Agricultural land (% of land area)
+3,AG.LND.ARBL.HA,Arable land (hectares)
+4,AG.LND.ARBL.HA.PC,Arable land (hectares per person)
+5,AG.LND.ARBL.ZS,Arable land (% of land area)
+6,AG.LND.CREL.HA,Land under cereal production (hectares)
+7,AG.LND.CROP.ZS,Permanent cropland (% of land area)
+8,AG.LND.PRCP.MM,Average precipitation in depth (mm per year)
+9,AG.LND.TOTL.K2,Land area (sq. km)
+10,AG.PRD.CREL.MT,Cereal production (metric tons)
+11,AG.PRD.CROP.XD,Crop production index (2014-2016 = 100)
+12,AG.PRD.FOOD.XD,Food production index (2014-2016 = 100)
+13,AG.PRD.LVSK.XD,Livestock production index (2014-2016 = 100)
+14,AG.SRF.TOTL.K2,Surface area (sq. km)
+15,AG.YLD.CREL.KG,Cereal yield (kg per hectare)
+16,BX.GRT.EXTA.CD.WD,"Grants, excluding technical cooperation (BoP, current US$)"
+17,BX.GRT.TECH.CD.WD,"Technical cooperation grants (BoP, current US$)"
+18,DC.DAC.AUSL.CD,"Net bilateral aid flows from DAC donors, Australia (current US$)"
+19,DC.DAC.CANL.CD,"Net bilateral aid flows from DAC donors, Canada (current US$)"
+20,DC.DAC.CHEL.CD,"Net bilateral aid flows from DAC donors, Switzerland (current US$)"
+21,DC.DAC.DEUL.CD,"Net bilateral aid flows from DAC donors, Germany (current US$)"
+22,DC.DAC.DNKL.CD,"Net bilateral aid flows from DAC donors, Denmark (current US$)"
+23,DC.DAC.GBRL.CD,"Net bilateral aid flows from DAC donors, United Kingdom (current US$)"
+24,DC.DAC.ITAL.CD,"Net bilateral aid flows from DAC donors, Italy (current US$)"
+25,DC.DAC.NORL.CD,"Net bilateral aid flows from DAC donors, Norway (current US$)"
+26,DC.DAC.SWEL.CD,"Net bilateral aid flows from DAC donors, Sweden (current US$)"
+27,DC.DAC.TOTL.CD,"Net bilateral aid flows from DAC donors, Total (current US$)"
+28,DT.NFL.UNDP.CD,"Net official flows from UN agencies, UNDP (current US$)"
+29,DT.ODA.ALLD.CD,Net official development assistance and official aid received (current US$)
+30,DT.ODA.ALLD.KD,Net official development assistance and official aid received (constant 2020 US$)
+31,DT.ODA.ODAT.CD,Net official development assistance received (current US$)
+32,DT.ODA.ODAT.GN.ZS,Net ODA received (% of GNI)
+33,DT.ODA.ODAT.KD,Net official development assistance received (constant 2020 US$)
+34,DT.ODA.ODAT.PC.ZS,Net ODA received per capita (current US$)
+35,EN.POP.DNST,Population density (people per sq. km of land area)
+36,EN.URB.LCTY,Population in largest city
+37,EN.URB.LCTY.UR.ZS,Population in the largest city (% of urban population)
+38,EN.URB.MCTY,Population in urban agglomerations of more than 1 million
+39,EN.URB.MCTY.TL.ZS,Population in urban agglomerations of more than 1 million (% of total population)
+40,ER.FSH.AQUA.MT,Aquaculture production (metric tons)
+41,ER.FSH.CAPT.MT,Capture fisheries production (metric tons)
+42,ER.FSH.PROD.MT,Total fisheries production (metric tons)
+43,ER.H2O.INTR.K3,"Renewable internal freshwater resources, total (billion cubic meters)"
+44,ER.H2O.INTR.PC,Renewable internal freshwater resources per capita (cubic meters)
+45,FD.AST.PRVT.GD.ZS,Domestic credit to private sector by banks (% of GDP)
+46,FI.RES.TOTL.CD,"Total reserves (includes gold, current US$)"
+47,FI.RES.XGLD.CD,Total reserves minus gold (current US$)
+48,FM.AST.CGOV.ZG.M3,Claims on central government (annual growth as % of broad money)
+49,FM.AST.DOMS.CN,Net domestic credit (current LCU)
+50,FM.AST.NFRG.CN,Net foreign assets (current LCU)
+51,FM.AST.PRVT.GD.ZS,Monetary Sector credit to private sector (% GDP)
+52,FM.AST.PRVT.ZG.M3,Claims on private sector (annual growth as % of broad money)
+53,FM.LBL.BMNY.CN,Broad money (current LCU)
+54,FM.LBL.BMNY.GD.ZS,Broad money (% of GDP)
+55,FM.LBL.BMNY.IR.ZS,Broad money to total reserves ratio
+56,FM.LBL.BMNY.ZG,Broad money growth (annual %)
+57,FS.AST.CGOV.GD.ZS,"Claims on central government, etc. (% GDP)"
+58,IT.MLT.MAIN,Fixed telephone subscriptions
+59,IT.MLT.MAIN.P2,Fixed telephone subscriptions (per 100 people)
+60,NV.AGR.TOTL.CD,"Agriculture, forestry, and fishing, value added (current US$)"
+61,NV.AGR.TOTL.CN,"Agriculture, forestry, and fishing, value added (current LCU)"
+62,NV.AGR.TOTL.KD,"Agriculture, forestry, and fishing, value added (constant 2015 US$)"
+63,NV.AGR.TOTL.KD.ZG,"Agriculture, forestry, and fishing, value added (annual % growth)"
+64,NV.AGR.TOTL.KN,"Agriculture, forestry, and fishing, value added (constant LCU)"
+65,NV.AGR.TOTL.ZS,"Agriculture, forestry, and fishing, value added (% of GDP)"
+66,NV.IND.MANF.CD,"Manufacturing, value added (current US$)"
+67,NV.IND.MANF.CN,"Manufacturing, value added (current LCU)"
+68,NV.IND.MANF.KD,"Manufacturing, value added (constant 2015 US$)"
+69,NV.IND.MANF.KD.ZG,"Manufacturing, value added (annual % growth)"
+70,NV.IND.MANF.KN,"Manufacturing, value added (constant LCU)"
+71,NV.IND.MANF.ZS,"Manufacturing, value added (% of GDP)"
+72,NV.IND.TOTL.CD,"Industry (including construction), value added (current US$)"
+73,NV.IND.TOTL.CN,"Industry (including construction), value added (current LCU)"
+74,NV.IND.TOTL.KD,"Industry (including construction), value added (constant 2015 US$)"
+75,NV.IND.TOTL.KD.ZG,"Industry (including construction), value added (annual % growth)"
+76,NV.IND.TOTL.KN,"Industry (including construction), value added (constant LCU)"
+77,NV.IND.TOTL.ZS,"Industry (including construction), value added (% of GDP)"
+78,NV.SRV.TOTL.KD,"Services, value added (constant 2015 US$)"
+79,NV.SRV.TOTL.KD.ZG,"Services, value added (annual % growth)"
+80,NV.SRV.TOTL.KN,"Services, value added (constant LCU)"
+81,NY.GDP.DEFL.KD.ZG,"Inflation, GDP deflator (annual %)"
+82,NY.GDP.DEFL.ZS,GDP deflator (base year varies by country)
+83,NY.GDP.FCST.CD,Gross value added at basic prices (GVA) (current US$)
+84,NY.GDP.FCST.CN,Gross value added at basic prices (GVA) (current LCU)
+85,NY.GDP.FCST.KD,Gross value added at basic prices (GVA) (constant 2015 US$)
+86,NY.GDP.FCST.KN,Gross value added at basic prices (GVA) (constant LCU)
+87,NY.GDP.MKTP.CD,GDP (current US$)
+88,NY.GDP.MKTP.CN,GDP (current LCU)
+89,NY.GDP.MKTP.KD,GDP (constant 2015 US$)
+90,NY.GDP.MKTP.KD.ZG,GDP growth (annual %)
+91,NY.GDP.MKTP.KN,GDP (constant LCU)
+92,NY.GDP.PCAP.CD,GDP per capita (current US$)
+93,NY.GDP.PCAP.CN,GDP per capita (current LCU)
+94,NY.GDP.PCAP.KD,GDP per capita (constant 2015 US$)
+95,NY.GDP.PCAP.KD.ZG,GDP per capita growth (annual %)
+96,NY.GDP.PCAP.KN,GDP per capita (constant LCU)
+97,NY.GNP.ATLS.CD,"GNI, Atlas method (current US$)"
+98,NY.GNP.MKTP.CD,GNI (current US$)
+99,NY.GNP.MKTP.CN,GNI (current LCU)
+100,NY.GNP.PCAP.CD,"GNI per capita, Atlas method (current US$)"
+101,NY.GNP.PCAP.CN,GNI per capita (current LCU)
+102,NY.GSR.NFCY.CD,Net primary income (Net income from abroad) (current US$)
+103,NY.GSR.NFCY.CN,Net primary income (Net income from abroad) (current LCU)
+104,NY.TAX.NIND.CD,Taxes less subsidies on products (current US$)
+105,NY.TAX.NIND.CN,Taxes less subsidies on products (current LCU)
+106,NY.TAX.NIND.KN,Taxes less subsidies on products (constant LCU)
+107,PA.NUS.ATLS,DEC alternative conversion factor (LCU per US$)
+108,PA.NUS.FCRF,"Official exchange rate (LCU per US$, period average)"
+109,SH.DTH.IMRT,Number of infant deaths
+110,SH.DTH.MORT,Number of under-five deaths
+111,SH.DYN.MORT,"Mortality rate, under-5 (per 1,000 live births)"
+112,SH.DYN.MORT.FE,"Mortality rate, under-5, female (per 1,000 live births)"
+113,SH.DYN.MORT.MA,"Mortality rate, under-5, male (per 1,000 live births)"
+114,SM.POP.NETM,Net migration
+115,SM.POP.REFG,Refugee population by country or territory of asylum
+116,SP.ADO.TFRT,"Adolescent fertility rate (births per 1,000 women ages 15-19)"
+117,SP.DYN.AMRT.FE,"Mortality rate, adult, female (per 1,000 female adults)"
+118,SP.DYN.AMRT.MA,"Mortality rate, adult, male (per 1,000 male adults)"
+119,SP.DYN.CBRT.IN,"Birth rate, crude (per 1,000 people)"
+120,SP.DYN.CDRT.IN,"Death rate, crude (per 1,000 people)"
+121,SP.DYN.IMRT.FE.IN,"Mortality rate, infant, female (per 1,000 live births)"
+122,SP.DYN.IMRT.IN,"Mortality rate, infant (per 1,000 live births)"
+123,SP.DYN.IMRT.MA.IN,"Mortality rate, infant, male (per 1,000 live births)"
+124,SP.DYN.LE00.FE.IN,"Life expectancy at birth, female (years)"
+125,SP.DYN.LE00.IN,"Life expectancy at birth, total (years)"
+126,SP.DYN.LE00.MA.IN,"Life expectancy at birth, male (years)"
+127,SP.DYN.TFRT.IN,"Fertility rate, total (births per woman)"
+128,SP.DYN.TO65.FE.ZS,"Survival to age 65, female (% of cohort)"
+129,SP.DYN.TO65.MA.ZS,"Survival to age 65, male (% of cohort)"
+130,SP.POP.0004.FE.5Y,"Population ages 00-04, female (% of female population)"
+131,SP.POP.0004.MA.5Y,"Population ages 00-04, male (% of male population)"
+132,SP.POP.0014.FE.IN,"Population ages 0-14, female"
+133,SP.POP.0014.FE.ZS,"Population ages 0-14, female (% of female population)"
+134,SP.POP.0014.MA.IN,"Population ages 0-14, male"
+135,SP.POP.0014.MA.ZS,"Population ages 0-14, male (% of male population)"
+136,SP.POP.0014.TO,"Population ages 0-14, total"
+137,SP.POP.0014.TO.ZS,Population ages 0-14 (% of total population)
+138,SP.POP.0509.FE.5Y,"Population ages 05-09, female (% of female population)"
+139,SP.POP.0509.MA.5Y,"Population ages 05-09, male (% of male population)"
+140,SP.POP.1014.FE.5Y,"Population ages 10-14, female (% of female population)"
+141,SP.POP.1014.MA.5Y,"Population ages 10-14, male (% of male population)"
+142,SP.POP.1519.FE.5Y,"Population ages 15-19, female (% of female population)"
+143,SP.POP.1519.MA.5Y,"Population ages 15-19, male (% of male population)"
+144,SP.POP.1564.FE.IN,"Population ages 15-64, female"
+145,SP.POP.1564.FE.ZS,"Population ages 15-64, female (% of female population)"
+146,SP.POP.1564.MA.IN,"Population ages 15-64, male"
+147,SP.POP.1564.MA.ZS,"Population ages 15-64, male (% of male population)"
+148,SP.POP.1564.TO,"Population ages 15-64, total"
+149,SP.POP.1564.TO.ZS,Population ages 15-64 (% of total population)
+150,SP.POP.2024.FE.5Y,"Population ages 20-24, female (% of female population)"
+151,SP.POP.2024.MA.5Y,"Population ages 20-24, male (% of male population)"
+152,SP.POP.2529.FE.5Y,"Population ages 25-29, female (% of female population)"
+153,SP.POP.2529.MA.5Y,"Population ages 25-29, male (% of male population)"
+154,SP.POP.3034.FE.5Y,"Population ages 30-34, female (% of female population)"
+155,SP.POP.3034.MA.5Y,"Population ages 30-34, male (% of male population)"
+156,SP.POP.3539.FE.5Y,"Population ages 35-39, female (% of female population)"
+157,SP.POP.3539.MA.5Y,"Population ages 35-39, male (% of male population)"
+158,SP.POP.4044.FE.5Y,"Population ages 40-44, female (% of female population)"
+159,SP.POP.4044.MA.5Y,"Population ages 40-44, male (% of male population)"
+160,SP.POP.4549.FE.5Y,"Population ages 45-49, female (% of female population)"
+161,SP.POP.4549.MA.5Y,"Population ages 45-49, male (% of male population)"
+162,SP.POP.5054.FE.5Y,"Population ages 50-54, female (% of female population)"
+163,SP.POP.5054.MA.5Y,"Population ages 50-54, male (% of male population)"
+164,SP.POP.5559.FE.5Y,"Population ages 55-59, female (% of female population)"
+165,SP.POP.5559.MA.5Y,"Population ages 55-59, male (% of male population)"
+166,SP.POP.6064.FE.5Y,"Population ages 60-64, female (% of female population)"
+167,SP.POP.6064.MA.5Y,"Population ages 60-64, male (% of male population)"
+168,SP.POP.6569.FE.5Y,"Population ages 65-69, female (% of female population)"
+169,SP.POP.6569.MA.5Y,"Population ages 65-69, male (% of male population)"
+170,SP.POP.65UP.FE.IN,"Population ages 65 and above, female"
+171,SP.POP.65UP.FE.ZS,"Population ages 65 and above, female (% of female population)"
+172,SP.POP.65UP.MA.IN,"Population ages 65 and above, male"
+173,SP.POP.65UP.MA.ZS,"Population ages 65 and above, male (% of male population)"
+174,SP.POP.65UP.TO,"Population ages 65 and above, total"
+175,SP.POP.65UP.TO.ZS,Population ages 65 and above (% of total population)
+176,SP.POP.7074.FE.5Y,"Population ages 70-74, female (% of female population)"
+177,SP.POP.7074.MA.5Y,"Population ages 70-74, male (% of male population)"
+178,SP.POP.7579.FE.5Y,"Population ages 75-79, female (% of female population)"
+179,SP.POP.7579.MA.5Y,"Population ages 75-79, male (% of male population)"
+180,SP.POP.80UP.FE.5Y,"Population ages 80 and above, female (% of female population)"
+181,SP.POP.80UP.MA.5Y,"Population ages 80 and above, male (% of male population)"
+182,SP.POP.BRTH.MF,Sex ratio at birth (male births per female births)
+183,SP.POP.DPND,Age dependency ratio (% of working-age population)
+184,SP.POP.DPND.OL,"Age dependency ratio, old (% of working-age population)"
+185,SP.POP.DPND.YG,"Age dependency ratio, young (% of working-age population)"
+186,SP.POP.GROW,Population growth (annual %)
+187,SP.POP.TOTL,"Population, total"
+188,SP.POP.TOTL.FE.IN,"Population, female"
+189,SP.POP.TOTL.FE.ZS,"Population, female (% of total population)"
+190,SP.POP.TOTL.MA.IN,"Population, male"
+191,SP.POP.TOTL.MA.ZS,"Population, male (% of total population)"
+192,SP.RUR.TOTL,Rural population
+193,SP.RUR.TOTL.ZG,Rural population growth (annual %)
+194,SP.RUR.TOTL.ZS,Rural population (% of total population)
+195,SP.URB.GROW,Urban population growth (annual %)
+196,SP.URB.TOTL,Urban population
+197,SP.URB.TOTL.IN.ZS,Urban population (% of total population)
+198,TG.VAL.TOTL.GD.ZS,Merchandise trade (% of GDP)
+199,TM.VAL.MRCH.AL.ZS,Merchandise imports from economies in the Arab World (% of total merchandise imports)
+200,TM.VAL.MRCH.CD.WT,Merchandise imports (current US$)
+201,TM.VAL.MRCH.HI.ZS,Merchandise imports from high-income economies (% of total merchandise imports)
+202,TM.VAL.MRCH.OR.ZS,Merchandise imports from low- and middle-income economies outside region (% of total merchandise imports)
+203,TM.VAL.MRCH.R1.ZS,Merchandise imports from low- and middle-income economies in East Asia & Pacific (% of total merchandise imports)
+204,TM.VAL.MRCH.R3.ZS,Merchandise imports from low- and middle-income economies in Latin America & the Caribbean (% of total merchandise imports)
+205,TM.VAL.MRCH.R4.ZS,Merchandise imports from low- and middle-income economies in Middle East & North Africa (% of total merchandise imports)
+206,TM.VAL.MRCH.R5.ZS,Merchandise imports from low- and middle-income economies in South Asia (% of total merchandise imports)
+207,TM.VAL.MRCH.R6.ZS,Merchandise imports from low- and middle-income economies in Sub-Saharan Africa (% of total merchandise imports)
+208,TM.VAL.MRCH.RS.ZS,"Merchandise imports by the reporting economy, residual (% of total merchandise imports)"
+209,TM.VAL.MRCH.WL.CD,Merchandise imports by the reporting economy (current US$)
+210,TM.VAL.MRCH.WR.ZS,Merchandise imports from low- and middle-income economies within region (% of total merchandise imports)
+211,TX.VAL.MRCH.AL.ZS,Merchandise exports to economies in the Arab World (% of total merchandise exports)
+212,TX.VAL.MRCH.CD.WT,Merchandise exports (current US$)
+213,TX.VAL.MRCH.HI.ZS,Merchandise exports to high-income economies (% of total merchandise exports)
+214,TX.VAL.MRCH.OR.ZS,Merchandise exports to low- and middle-income economies outside region (% of total merchandise exports)
+215,TX.VAL.MRCH.R1.ZS,Merchandise exports to low- and middle-income economies in East Asia & Pacific (% of total merchandise exports)
+216,TX.VAL.MRCH.R5.ZS,Merchandise exports to low- and middle-income economies in South Asia (% of total merchandise exports)
+217,TX.VAL.MRCH.R6.ZS,Merchandise exports to low- and middle-income economies in Sub-Saharan Africa (% of total merchandise exports)
+218,TX.VAL.MRCH.RS.ZS,"Merchandise exports by the reporting economy, residual (% of total merchandise exports)"
+219,TX.VAL.MRCH.WL.CD,Merchandise exports by the reporting economy (current US$)
+220,TX.VAL.MRCH.WR.ZS,Merchandise exports to low- and middle-income economies within region (% of total merchandise exports)
